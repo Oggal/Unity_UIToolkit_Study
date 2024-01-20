@@ -1,0 +1,25 @@
+VisualElement {}
+
+.unity-button{
+    border-radius: 3px;
+    border: 1px;
+    background-color: #0909FF;
+    color: #FFFFF0;
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.unity-button:hover{
+    background-color: #0A0AEE;
+    color: #FFFF00;
+}
+
+.grid-container {
+
+    background-color: #FFFFFF;
+    align-self: center;
+    align-content: center;
+    margin: 10%;
+    padding: 10%;
+
+}
